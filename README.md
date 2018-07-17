@@ -1,4 +1,4 @@
-# yt-devmeetup-vue
+# philanthropy-vuetify
 
 A dev meetup application built with Vue + Vuetify + Firebase.
 
